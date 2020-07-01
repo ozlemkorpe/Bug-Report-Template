@@ -1,0 +1,38 @@
+TITLE
+
+Description:
+
+Test Steps:
+1-
+2-
+3-
+4-
+5-
+
+Expected Result:
+Actual Result:
+
+Error Message:
+
+Date-Time:
+
+DEVICE INFORMATION
+Device Brand:
+Device Model:
+OS:
+OS Version:
+Device Language:
+Carrier:
+Network Status:
+
+APPLICATION INFORMATION
+App Name:
+App Version:
+App Lang:
+Logs:
+
+ADDITIONAL INFORMATION
+-Screenshots
+-Screenrecords
+
+
